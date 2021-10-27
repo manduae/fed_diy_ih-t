@@ -58,13 +58,13 @@ hier de naam van de pagina
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/Breakdown_schets.jpg" width="1000px" alt="breakdown van de hele pagina">
+<img src="images/breakdown_schets.jpg" width="1000px" alt="breakdown van de hele pagina">
 
 ### de tweede pagina: 
-<img src="images/breakdown_schets_2.jpg" width="1000px" alt="breakdown van een dynamisch deel">
+<img src="images/breakdown_schets_2.jpg" width="1000px" alt="breakdown van de tweede pagina">
 
 ### Dynamisch deel: 
-<img src="images/Breakdown_schets_dynamic.jpg" width="1000px" alt="breakdown van nog een dynamisch deel">
+<img src="images/breakdown_schets_dynamic.jpg" width="1000px" alt="breakdown van een dynamisch deel">
 
 </details>
 
