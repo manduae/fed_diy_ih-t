@@ -61,7 +61,7 @@ hier de naam van de pagina
 <img src="images/Breakdown_schets.jpg" width="1000px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/Breakdown_schets_dynamic.jpg" width="1000px" alt="breakdown van een dynamisch deel">
 
 ### wellicht nog een dynamisch deel (bijv filter): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
