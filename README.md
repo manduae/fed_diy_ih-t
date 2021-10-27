@@ -37,19 +37,15 @@ Surface plane
 
 ### Je opdracht:
 Ik ga proberen de website van Apple na te maken.
+Links zie je de screenshot van de eerste pagina, rechts zie je de detailpagina. 
  
-#### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/apple_frontpage.jpg" width="375px" alt="de voorpagina van Apple">
-
-#### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/apple_secondpage.jpg" width="375px" alt="de supportpagina van Apple">
+<p float="left">
+  <img src="images/apple_frontpage.jpg" width="375px" alt="de voorpagina van Apple">
+  <img src="images/apple_secondpage.jpg" width="375px" alt="de supportpagina van Apple">
+</p> 
  
-</details>
 
-
-
+</details open>
 
 
 ## Breakdownschets
