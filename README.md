@@ -44,7 +44,7 @@ hier de naam van de pagina
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="de supportpagina van Apple">
+<img src="images/apple_secondpage.jpg" width="375px" alt="de supportpagina van Apple">
  
 </details>
 
