@@ -52,7 +52,7 @@ hier de naam van de pagina
 
 
 
-## Breakdownschets (week 1)
+## Breakdownschets
 
 <details open>
 <summary>uitwerken na afloop 2e werkgroep</summary>
@@ -72,7 +72,7 @@ hier de naam van de pagina
 
 
 
-## Voortgang 1 (week 2)
+## Voortgang 1
 
 <details>
 <summary>uitwerken voor 1e voortgang</summary>
@@ -105,7 +105,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 
 
-## Voortgang 2 (week 3)
+## Voortgang 2
 
 <details>
 <summary>uitwerken voor 2e voortgang</summary>
@@ -138,7 +138,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 
 
-## Toegankelijkheidstest (week 4)
+## Toegankelijkheidstest
 
 <details>
 <summary>uitwerken na test in 8e voortgang</summary>
@@ -175,7 +175,7 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 
 
 
-## Voortgang 3 (week 4)
+## Voortgang 3
 
 <details>
 <summary>uitwerken voor 3e voortgang</summary>
@@ -208,7 +208,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 
 
-## Eindgesprek (week 5)
+## Eindgesprek
 
 <details>
 <summary>uitwerken voor eindgesprek</summary>
