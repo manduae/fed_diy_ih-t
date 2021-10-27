@@ -16,10 +16,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Emilio Manduapessij
+Sanne 't Hooft (vervangen door jouw naam)
 
 #### Je startniveau:
-Blauw
+hier je startniveau (kies uit zwart, rood óf blauw)
 
 #### Je focus:
 hier je focus (kies uit responsive óf surface plane)
@@ -54,17 +54,17 @@ hier de naam van de pagina
 
 ## Breakdownschets (week 1)
 
-<details open>
+<details>
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/Breakdown_schets.jpg" width="1000px" alt="breakdown van de hele pagina">
- 
- ### de tweede pagina: 
-<img src="images/breakdown_schets_2.jpg" width="1000px" alt="breakdown van nog een dynamisch deel">
+<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
-<img src="images/breakdown_schets_dynamic.jpg" width="1000px" alt="breakdown van een dynamisch deel">
+<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+
+### wellicht nog een dynamisch deel (bijv filter): 
+<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
