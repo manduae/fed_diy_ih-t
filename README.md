@@ -74,7 +74,11 @@ Links zie je de screenshot van de eerste pagina, rechts zie je de detailpagina.
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Allereerst ben ik begonnen met de code en css van de navbar. Ik heb hiervoor als bron gebruikt:
+ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav
+ 
+ Echter liep ik tegen mijn eerste probleem op: Er zit een rand romdom de viewport, zie bijstaande foto:
+ 
 
 
 ### Agenda voor meeting
