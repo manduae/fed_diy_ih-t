@@ -70,7 +70,7 @@ Links zie je de screenshot van de eerste pagina, rechts zie je de detailpagina.
 
 ## Voortgang 1
 
-<details>
+<details open>
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
@@ -78,6 +78,7 @@ Allereerst ben ik begonnen met de code en css van de navbar. Ik heb hiervoor als
  https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav
  
  Echter liep ik tegen mijn eerste probleem op: Er zit een rand romdom de viewport, zie bijstaande foto:
+ 
  <img src="images/fed_proces1.png" width="375px" alt="breakdown van een dynamisch deel">
 
 
