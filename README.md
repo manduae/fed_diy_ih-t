@@ -81,12 +81,14 @@ Allereerst ben ik begonnen met de code en css van de navbar. Ik heb hiervoor als
  
  <img src="images/fed_proces1.png" width="375px" alt="breakdown van een dynamisch deel">
 
+
  Na het proberen weg te werken van de witte rand (waar ik nog niet achter ben gekomen hoe dit komt) heb ik mijn focus verlegd op het volledig maken van het menu. Om het responsive te maken én het gebruik van een beetje javascript voor een smooth verloop van de uitklap. Voor de media nquiry heb ik als bron gebruikt: https://www.w3schools.com/cssref/css3_pr_mediaquery.asp , Hierin heb ik ervoor gezorgd dat de hamburger icon verdwijnt zodra het scherm groter is dan 700px.
 
  Zie bijstaande foto's:
  
  <p float="left">
   <img src="images/fed_proces2.png" width="375px" alt="media voorbeeld 1">
+  
   <img src="images/fed_proces3.png" width="500px" alt="media voorbeeld 2">
 </p> 
 
