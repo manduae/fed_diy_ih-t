@@ -51,6 +51,7 @@ nav ul li a:hover{
     color: #ff5ea2
 }
 
+/* Voor het gebruik van media quiry heb ik gebruikt gemaakt van de bron:  https://www.w3schools.com/cssref/css3_pr_mediaquery.asp */
 
 @media only screen and (max-width:700px){
     
@@ -74,8 +75,11 @@ nav ul li a:hover{
     .menu-icon{
         display:block; 
     }
+    #menuList{
+        overflow: hidden;
+        transition: 0.5s;
+    }
 }
-
 
 
 
