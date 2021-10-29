@@ -100,11 +100,10 @@ Allereerst ben ik begonnen met de code en css van de navbar. Ik heb hiervoor als
 
 ## Voortgang 2
 
-<details>
+<details open>
 <summary>uitwerken voor 2e voortgang</summary>
 
-### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Om de uitklapbalk van het menu bewegend te krijgen moet ik Javascript gebruiken. Hiervoor gebruik je de onclick op het menu icoontje met Toggle menu. Dit weet ik nog uit de frontend lessen. 
 
 
 ### Agenda voor meeting
