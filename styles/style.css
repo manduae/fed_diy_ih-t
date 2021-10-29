@@ -24,11 +24,15 @@
 .menu-icon{
     width: 25px;
     cursor: pointer;
+    display: none;
 }
 .winkelmand-icon{
     width: 25px;
     cursor: pointer;
 }
+
+/*Gebruikte bron voor navigatie opmaak: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav en https://www.youtube.com/watch?v=lAOkx2yZESY */
+
 nav{
     flex: 1;
     text-align: right;
@@ -46,3 +50,32 @@ nav ul li a{
 nav ul li a:hover{
     color: #ff5ea2
 }
+
+
+@media only screen and (max-width:700px){
+    
+    nav ul{
+        width:100%;
+        position:absolute;
+        background-color:#313131;
+        top:75px;
+        right:0px;
+        z-index:2;
+    }
+    nav ul li {
+        display: block;
+        margin-top: 10px; 
+        margin-bottom: 10px; 
+    }
+    nav ul li a{
+        color:#fff
+            
+    }
+    .menu-icon{
+        display:block; 
+    }
+}
+
+
+
+
