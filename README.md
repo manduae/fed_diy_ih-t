@@ -103,7 +103,7 @@ Allereerst ben ik begonnen met de code en css van de navbar. Ik heb hiervoor als
 <details open>
 <summary>uitwerken voor 2e voortgang</summary>
 
-Om de uitklapbalk van het menu bewegend te krijgen moet ik Javascript gebruiken. Hiervoor gebruik je de onclick op het menu icoontje met Toggle menu. Dit weet ik nog uit de frontend lessen. 
+Om de uitklapbalk van het menu bewegend te krijgen moet ik Javascript gebruiken. Hiervoor gebruik je de onclick op het menu icoontje met Toggle menu. Dit weet ik nog uit de frontend lessen. Helaas reageert mijn javascript niet. Op het moment dat ik het menu-icoontje wil laten uitklappen reageert hij niet. Dit heeft volgens Brackets twee oorzaken: Foutmelding 1 is dat de "if" een "unexpected token" aangeeft, foutmelding twee geeft aan dat mijn element niet word aangeroepen. Na letterlijk een uur lopen kloten kom ik er nog steeds niet uit.. Ik ben begonnen met een nieuwe navbar aan te maken via een andere bron omdat ik anders te veel onnodige tijd verlies. 
 
 
 ### Agenda voor meeting
