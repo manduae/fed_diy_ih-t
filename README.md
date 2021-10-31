@@ -107,10 +107,14 @@ Om de uitklapbalk van het menu bewegend te krijgen moet ik Javascript gebruiken.
  
 Nu ik begonnen ben met de nieuwe nav, is mijn structuur enigzins anders. Ik ben begonnen met enkel het HTML bestand. Gevolgd via de bron: https://itnext.io/how-to-create-a-responsive-navigation-bar-with-html-css-and-jquery-step-by-step-tutorial-9c780b58479f
  
- Zie voortgang hier:
+ Zie voortgang hier (hero section is inmiddels veranderd):
 
 <img src="images/fed_proces4.png" width="375px" alt="voortgang navbar">
-
+<p float="left">
+  <img src="images/fed_proces4.png" width="375px" alt="voortgang navbar">
+  
+  <img src="images/fed_proces5.png" width="375px" alt="verandering website">
+</p> 
 
 </details>
 
