@@ -109,10 +109,10 @@ Nu ik begonnen ben met de nieuwe nav, is mijn structuur enigzins anders. Ik ben 
  
  Zie voortgang hier (hero section is inmiddels veranderd):
 
-<img src="images/fed_proces4.png" width="375px" alt="voortgang navbar">
 <p float="left">
   <img src="images/fed_proces4.png" width="375px" alt="voortgang navbar">
   
+ 
   <img src="images/fed_proces5.png" width="375px" alt="verandering website">
 </p> 
 
