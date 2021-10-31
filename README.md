@@ -105,26 +105,12 @@ Allereerst ben ik begonnen met de code en css van de navbar. Ik heb hiervoor als
 
 Om de uitklapbalk van het menu bewegend te krijgen moet ik Javascript gebruiken. Hiervoor gebruik je de onclick op het menu icoontje met Toggle menu. Dit weet ik nog uit de frontend lessen. Helaas reageert mijn javascript niet. Op het moment dat ik het menu-icoontje wil laten uitklappen reageert hij niet. Dit heeft volgens Brackets twee oorzaken: Foutmelding 1 is dat de "if" een "unexpected token" aangeeft, foutmelding twee geeft aan dat mijn element niet word aangeroepen. Na letterlijk een uur lopen kloten kom ik er nog steeds niet uit.. Ik ben begonnen met een nieuwe navbar aan te maken via een andere bron omdat ik anders te veel onnodige tijd verlies. 
  
-Ik laat de navbar voor wat het is en ga bezig met de structuur van de website, de website bestaat uit 5 sections die ik allen 100vh meegeef in css.
+Nu ik begonnen ben met de nieuwe nav, is mijn structuur enigzins anders. Ik ben begonnen met enkel het HTML bestand. Gevolgd via de bron: https://itnext.io/how-to-create-a-responsive-navigation-bar-with-html-css-and-jquery-step-by-step-tutorial-9c780b58479f
+ 
+ Zie voortgang hier:
 
+<img src="images/fed_proces4.png" width="375px" alt="voortgang navbar">
 
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
-### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
 
 </details>
 
