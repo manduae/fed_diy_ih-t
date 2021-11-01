@@ -116,6 +116,10 @@ Nu ik begonnen ben met de nieuwe nav, is mijn structuur enigzins anders. Ik ben 
   <img src="images/fed_proces5.png" width="375px" alt="verandering website">
 </p> 
 
+ Als laatste ben ik gestart met het indelen van de sections onder de navigatie balk, zie proces hieronder:
+ 
+ <img src="images/fed_proces6.png" width="375px" alt="section website">
+ 
 </details>
 
 
