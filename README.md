@@ -122,6 +122,10 @@ Nu ik begonnen ben met de nieuwe nav, is mijn structuur enigzins anders. Ik ben 
  
 </details>
 
+Voor zover ik nu ben: Navigatie begint vorm te krijgen en lijkt op de apple website. Icoontjes krijg ik met CSS nog niet op de juiste plek en grootte. Zie proces:
+
+<img src="images/fed_proces7.png" width="1000px" alt="navbar proces">
+
 
 
 
