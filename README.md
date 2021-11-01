@@ -126,7 +126,9 @@ Voor zover ik nu ben: Navigatie begint vorm te krijgen en lijkt op de apple webs
 
 <img src="images/fed_proces7.png" width="1000px" alt="navbar proces">
 
+Nu ik mijn section heb ingedeeld struggle ik met het correct plaatsen van mijn achtergrond foto, dit wil nog niet lukken. Zie bijgevoegde foto:
 
+<img src="images/fed_proces8.png" width="500px" alt="background foto proces">
 
 
 
