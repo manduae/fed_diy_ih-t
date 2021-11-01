@@ -60,3 +60,16 @@ header{
 .nav-link:hover{
     opacity: .7;
 }
+
+.nav-link-apple{
+    width: 1.6rem;
+    height: 4.4rem;
+    
+    
+}
+
+.apple-logo{
+    width: 3rem;
+    height: 3rem;
+    
+}
