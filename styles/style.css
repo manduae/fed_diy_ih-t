@@ -1,7 +1,5 @@
 /* CSS Document */
-*, *::after, *::before {
-  box-sizing:border-box;  
-}
+
 
 *,
 *::before
@@ -72,4 +70,26 @@ header{
     width: 3rem;
     height: 3rem;
     
+}
+
+.winkelmand-icon{
+    width: 3rem;
+    height: 3rem;
+    
+}
+
+.search-icon{
+    width: 3rem;
+    height: 3rem;
+    
+}
+
+.section1_bg{
+    height: 20rem;
+    margin-top: 4.4rem;
+    background-size: auto 10rem;
+    background-position: center;
+}
+
+
 }
