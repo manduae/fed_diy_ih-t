@@ -24,6 +24,8 @@ a{
     padding: 0 2.2rem;
 }
 
+/* header */
+
 header{
     position: fixed
     top: 0;
@@ -99,7 +101,9 @@ header{
     border-bottom: .6rem solid #fff;
 }
 
-.iphone-11-pro{
+/*iPhone 13 pro section*/
+
+.iphone-13-pro{
     border-top: none;
 }
 
@@ -145,6 +149,19 @@ header{
     
 .cta-link:hover{
     border-bottom: 2px solid #66bbff;
+}
+
+/* iphone 13 section */
+
+.iphone-13{
+    border-top: none;
+    height: 20rem;
+    margin-top: 80.4rem;
+    background-size: auto 10rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-top: .6rem solid #fff;
+    border-bottom: .6rem solid #fff;
 }
 
 }
