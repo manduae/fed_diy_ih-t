@@ -130,7 +130,9 @@ Nu ik mijn section heb ingedeeld struggle ik met het correct plaatsen van mijn a
 
 <img src="images/fed_proces8.png" width="500px" alt="background foto proces">
 
+Vervolgens heb ik de achtergrond foto erachter gekregen, dit is voor nu een tijdelijke foto omdat de website vrij veel veranderd, zie foto:
 
+<img src="images/fed_proces9.png" width="1000px" alt="background foto proces2">
 
 ## Toegankelijkheidstest
 
