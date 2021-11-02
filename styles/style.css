@@ -85,7 +85,7 @@ header{
 }
 
 .section1_bg{
-
+ 
     
 }
 
@@ -128,6 +128,23 @@ header{
     margin-top: .68rem;
 }
 
+.cta{
+    text-align: center;
+    margin-top: 1.8rem;
+}
 
+.cta-link{
+    color: #66bbff;
+    font-size: 2.1rem;
+    display: inline-block;
+}
+
+.cta-link:nth-child(2){
+    margin-left: 2.6rem;
+}
+    
+.cta-link:hover{
+    border-bottom: 2px solid #66bbff;
+}
 
 }
