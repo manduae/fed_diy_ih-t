@@ -136,6 +136,8 @@ Vervolgens heb ik de achtergrond foto erachter gekregen, dit is voor nu een tijd
 
 Het probleem waar ik momenteel tegen aanloop is de titel die onder de section lijkt te komen, hoe krijg ik een foto als background, dit klinkt als iets simpels maar momenteel lukt het me niet om uit te vogelen hoe dit werkt. Ook niet met de bron https://www.digitalocean.com/community/tutorials/how-to-add-a-background-image-to-the-top-section-of-your-webpage-with-html 
 
+Voor het bepalen van de kleuren voor bijvoorbeeld de Cta en headers, gebruik ik Color slurp chrome extension, hiermee achterhaal je de hex code vanuit de webpagina, zo krijg ik exact de kleuren van de Apple website zelf.
+
 ## Toegankelijkheidstest
 
 <details>
