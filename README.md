@@ -152,13 +152,17 @@ Zoals verwacht ging er niet heel veel goed. Ik vind het snappen van de volledige
  
  3. 
 
+Home:
 
-
-<img src="images/fed_proces12.png" width="800px" alt="section foto lichtpunt">
+<img src="images/fed_proces12.png" width="800px" alt="resultaat 1">
  
- <img src="images/fed_proces13.png" width="800px" alt="section foto lichtpunt">
+ <img src="images/fed_proces13.png" width="800px" alt="resultaat 2">
  
- <img src="images/fed_proces14.png" width="800px" alt="section foto lichtpunt">
+ <img src="images/fed_proces14.png" width="800px" alt="resultaat 3">
+ 
+ Support:
+ 
+ <img src="images/fed_proces15.png" width="800px" alt="detailpagina">
 
 </details>
 
