@@ -173,7 +173,6 @@ Home:
 ## Bronnenlijst
 
 <details open>
-<summary>continu bijhouden terwijl je werkt</summary>
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
@@ -184,8 +183,9 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 5.  https://www.w3schools.com/html/html_links.asp
 6.  https://stackoverflow.com/questions/67784626/how-to-apply-background-image-in-css-html
 7.  https://stackoverflow.com/questions/30593267/hide-the-footer-onload-and-show-on-scroll
-8.  
-9.
-10. 
+8.  https://www.youtube.com/watch?v=vFzUVINwnFo
+9.  https://www.youtube.com/watch?v=PwWHL3RyQgk&t=799s
+10. https://www.youtube.com/watch?v=FEmysQARWFU
+11. https://www.youtube.com/watch?v=dMK_3lH1YPo
 
 </details>
