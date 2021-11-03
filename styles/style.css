@@ -157,6 +157,20 @@ header{
     color: #000;
 }
 
+/* kleurcodes achterhaalt met Colorslurp */
+
+.cta-link-darker{
+    color: #0070c9;
+}
+
+.cta-link-darker:hover{
+    border-bottom-color: #0070c9;
+}
+
+.title-heading-watch{
+    height: 7.8rem;
+}
+
 .iphone-13{
     border-top: none;
     height: 20rem;
@@ -172,4 +186,34 @@ header{
     border-top: none;
 }
 
+}
+
+/* dit is mijn media query section */
+
+@media screen and (max-width: 1068px){
+    
+    .hero{
+        height: 65rem;
+        background-size: auto 69.8rem;
+        background-position: bottom center;
+        background-repeat;
+    }
+    
+    .title-heading{
+        font-size: 4.4rem;
+    }
+    
+    .title-sub-heading{
+        font-size: 2.4rem;
+    }
+    
+    .cta-link:nth-child(2){
+        margin-left: 2rem;
+    }
+    
+    .title-heading-watch{
+        height: 7.8rem;
+        margin-top: 1.6rem;
+    }
+    
 }
