@@ -134,6 +134,8 @@ Vervolgens heb ik de achtergrond foto erachter gekregen, dit is voor nu een tijd
 
 <img src="images/fed_proces9.png" width="1000px" alt="background foto proces2">
 
+Het probleem waar ik momenteel tegen aanloop is de titel die onder de section lijkt te komen, hoe krijg ik een foto als background, dit klinkt als iets simpels maar momenteel lukt het me niet om uit te vogelen hoe dit werkt. Ook niet met de bron https://www.digitalocean.com/community/tutorials/how-to-add-a-background-image-to-the-top-section-of-your-webpage-with-html 
+
 ## Toegankelijkheidstest
 
 <details>
