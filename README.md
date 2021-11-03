@@ -1,14 +1,4 @@
 # Procesverslag
-Markdown is een simpele manier om HTML te schrijven.  
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
-Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
-
-
-
-
 
 ## Jij
 
@@ -24,16 +14,11 @@ Blauw
 #### Je focus:
 Surface plane
  
-</details>
-
-
-
-
+</details open>
 
 ## Je website
 
 <details open>
-<summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
 Ik ga proberen de website van Apple na te maken.
@@ -140,40 +125,6 @@ Voor het bepalen van de kleuren voor bijvoorbeeld de Cta en headers, gebruik ik 
 
 ## Toegankelijkheidstest
 
-<details>
-<summary>uitwerken na test in 8e voortgang</summary>
-
-### Bevindingen
-Lijst met je bevindingen die in de test naar voren kwamen:
-
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-</details>
-
-
-
-
 
 ## Voortgang 3
 
@@ -181,26 +132,13 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 Nu ik voor 80% (gedeelte sections lukken me niet volledig) de html structuur heb met css, ga ik me focussen op responsivness en media query.
-Voor het gebruik van een mooi responsive menu heb ik op W3 schools de cubic bezier gevonden, dit had ik zelf nooit geleerd bij Fed of JS, vond het daarom interessant om dit te gebruiken: https://www.w3schools.com/cssref/func_cubic-bezier.asp
+Voor het gebruik van een mooi responsive menu heb ik op W3 schools de cubic bezier gevonden, dit had ik zelf nooit geleerd bij Fed of JS, vond het daarom interessant om dit te gebruiken: https://www.w3schools.com/cssref/func_cubic-bezier.asp update: Cubic bezier is niet gelukt omdat het mij niet lukte om de pagina responsive te maken. De navbar verdwijnt op het moment dat mijn scherm kleiner is dan 500px.
  
+Bij een kleiner scherm anticipeerde mijn tekst wel goed en gewenst, dit was 1 van de weinig lichtpunten:
 
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
-### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+ <img src="images/fed_proces11.png" width="500px" alt="section foto lichtpunt">
+ 
+ 
 
 </details>
 
@@ -214,7 +152,13 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Zoals verwacht ging er niet heel veel goed. Ik vind het snappen van de volledige talen en hoe deze (HTML, CSS en JS) met elkaar communiceren zeer lastig. Ik begrijp de structuur nog steeds niet en probeer vanuit logica te denken. Dit maakt het proces voor mij als een complete sleur. Ik vind het niet leuk en ik ben er alles behalve vaardig in. Tijdens dit project liep ik tegen het volgende:
+ 
+ 1. Ik kreeg iets simpels zoals een achtergrond correct toevoegen in een Div niet voor elkaar. Hiermee heb ik lopen sjoemelen om de tekst in de section wel over de image heen te krijgen. Echter weet ik dondersgoed dat dit niet de manier is. 
+ 
+ 2. Gebruik van alle bronnen door elkaar maakt mijn structuur van werken nog gecompliceerder. Omdat ik bepaalde handwijzes overneem vanuit bijvoorbeeld w3 schools en youtube. Komt de code niet altijd overeen in het geheel. Voor de Navbar sloeg mijn css nog enigzins aan. Maar toen ik responsife design wilde maken, verdween mijn gehele balk bij een scherm kleiner dan 500px. Hier stagneerde ik en kon ik eigenlijk niet verder omdat ik anders de hele code moest herschrijven.
+ 
+ 3. 
 
 ### Screenshot(s)
 
