@@ -123,9 +123,6 @@ Het probleem waar ik momenteel tegen aanloop is de titel die onder de section li
 
 Voor het bepalen van de kleuren voor bijvoorbeeld de Cta en headers, gebruik ik Color slurp chrome extension, hiermee achterhaal je de hex code vanuit de webpagina, zo krijg ik exact de kleuren van de Apple website zelf.
 
-## Toegankelijkheidstest
-
-
 ## Voortgang 3
 
 <details open>
@@ -143,12 +140,7 @@ Bij een kleiner scherm anticipeerde mijn tekst wel goed en gewenst, dit was 1 va
 </details>
 
 
-
-
-
-## Eindgesprek
-
-<details>
+<details open>
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
@@ -160,9 +152,13 @@ Zoals verwacht ging er niet heel veel goed. Ik vind het snappen van de volledige
  
  3. 
 
-### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+
+<img src="images/fed_proces12.png" width="800px" alt="section foto lichtpunt">
+ 
+ <img src="images/fed_proces13.png" width="800px" alt="section foto lichtpunt">
+ 
+ <img src="images/fed_proces14.png" width="800px" alt="section foto lichtpunt">
 
 </details>
 
