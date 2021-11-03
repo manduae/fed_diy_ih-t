@@ -89,15 +89,19 @@ header{
 
 .hero{
     height: 20rem;
-    margin-top: 4.4rem;
-    background-size: auto 10rem;
-    background-position: center;
-    background-repeat: no-repeat;
-    border-top: .6rem solid #fff;
+    width: 100%;
     border-bottom: .6rem solid #fff;
 }
 
 /*iPhone 13 pro section*/
+
+.section1_bg{
+    width: 100%;
+}
+
+.section2_bg{
+    width: 100%;
+}
 
 .iphone-13-pro{
     border-top: none;
@@ -170,10 +174,7 @@ header{
 .iphone-13{
     border-top: none;
     height: 20rem;
-    margin-top: 80.4rem;
-    background-size: auto 10rem;
-    background-position: center;
-    background-repeat: no-repeat;
+    margin-top: 90rem;
     border-top: .6rem solid #fff;
     border-bottom: .6rem solid #fff;
 }
@@ -190,9 +191,6 @@ header{
     
     .hero{
         height: 65rem;
-        background-size: auto 69.8rem;
-        background-position: bottom center;
-        background-repeat;
     }
     
     .title-heading{
