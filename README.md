@@ -150,7 +150,7 @@ Zoals verwacht ging er niet heel veel goed. Ik vind het snappen van de volledige
  
  2. Gebruik van alle bronnen door elkaar maakt mijn structuur van werken nog gecompliceerder. Omdat ik bepaalde handwijzes overneem vanuit bijvoorbeeld w3 schools en youtube. Komt de code niet altijd overeen in het geheel. Voor de Navbar sloeg mijn css nog enigzins aan. Maar toen ik responsife design wilde maken, verdween mijn gehele balk bij een scherm kleiner dan 500px. Hier stagneerde ik en kon ik eigenlijk niet verder omdat ik anders de hele code moest herschrijven.
  
- 3. 
+ 3. Ben zeker wel teleurgesteld. Ik had gehoopt de website responsive te kunnen maken door middel van Media query. Ik begrijp dit aspect wel maar de uitwerking lukte maar niet zonder de hele code te verwijderen. 
 
 Home:
 
@@ -177,8 +177,15 @@ Home:
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1.  https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav
+2.  https://www.w3schools.com/cssref/css3_pr_mediaquery.asp 
+3.  https://www.digitalocean.com/community/tutorials/how-to-add-a-background-image-to-the-top-section-of-your-webpage-with-html 
+4.  https://www.w3schools.com/cssref/func_cubic-bezier.asp 
+5.  https://www.w3schools.com/html/html_links.asp
+6.  https://stackoverflow.com/questions/67784626/how-to-apply-background-image-in-css-html
+7.  https://stackoverflow.com/questions/30593267/hide-the-footer-onload-and-show-on-scroll
+8.  
+9.
+10. 
 
 </details>
