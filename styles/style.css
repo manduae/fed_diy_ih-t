@@ -153,6 +153,10 @@ header{
 
 /* iphone 13 section */
 
+.title-dark{
+    color: #000;
+}
+
 .iphone-13{
     border-top: none;
     height: 20rem;
@@ -162,6 +166,10 @@ header{
     background-repeat: no-repeat;
     border-top: .6rem solid #fff;
     border-bottom: .6rem solid #fff;
+}
+
+.iphone-13-pro{
+    border-top: none;
 }
 
 }
