@@ -177,11 +177,10 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 
 ## Voortgang 3
 
-<details>
+<details open>
 <summary>uitwerken voor 3e voortgang</summary>
 
-### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Nu ik voor 80% (gedeelte sections lukken me niet volledig) de html structuur heb met css, ga ik me focussen op responsivness en media query.
 
 
 ### Agenda voor meeting
