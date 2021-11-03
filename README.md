@@ -181,7 +181,8 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 Nu ik voor 80% (gedeelte sections lukken me niet volledig) de html structuur heb met css, ga ik me focussen op responsivness en media query.
-
+Voor het gebruik van een mooi responsive menu heb ik op W3 schools de cubic bezier gevonden, dit had ik zelf nooit geleerd bij Fed of JS, vond het daarom interessant om dit te gebruiken: https://www.w3schools.com/cssref/func_cubic-bezier.asp
+ 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
